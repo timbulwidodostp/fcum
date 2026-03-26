@@ -10,8 +10,8 @@ y <- fcum$y
 x <- fcum$x
 fcum <- fcum(y, x, kstar = 3)
 fcum
-summary(fcum)Fourier CUSUM Cointegration Test Use fcum (FCUSUM) With (In) R Software
-# 
+summary(fcum)
+# Fourier CUSUM Cointegration Test Use fcum (FCUSUM) With (In) R Software
 # Olah Data Semarang
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
